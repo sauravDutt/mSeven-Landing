@@ -1493,7 +1493,12 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 0;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-
+.inquiryImg {
+  height: 60px;
+}
+.inquiryTypes:hover {
+  text-decoration: none;
+}
 @media screen and (prefers-reduced-motion: reduce) {
   .form-control {
     transition: none;

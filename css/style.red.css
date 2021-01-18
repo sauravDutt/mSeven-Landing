@@ -16,6 +16,18 @@
 body {
   overflow-x: hidden;
 }
+body::-webkit-scrollbar {
+  width: 0rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: .8rem;
+  background: transparent;
+}
 
 section {
   position: relative;

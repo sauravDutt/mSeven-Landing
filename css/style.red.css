@@ -1508,6 +1508,7 @@ a.text-dark:hover, a.text-dark:focus {
     height: 30vh;
   }
   .hero-logo {
+    margin-top: -10vh;
     height: 30vh;
   }
 }

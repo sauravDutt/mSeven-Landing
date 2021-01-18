@@ -1511,8 +1511,8 @@ a.text-dark:hover, a.text-dark:focus {
     margin-top: -10vh;
     height: 30vh;
   }
-  .scroll-btn {
-    margin-top: -10vh;
+  #scroll-bottom {
+    margin-top: -20vh;
   }
 }
 

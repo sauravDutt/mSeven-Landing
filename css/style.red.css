@@ -1733,6 +1733,7 @@ a.text-dark:focus {
   }
   .open-button {
     font-size: 1.3rem;
+    padding-left: -20px;
   }
   .form-container .btn {
     font-size: 1.3rem;
